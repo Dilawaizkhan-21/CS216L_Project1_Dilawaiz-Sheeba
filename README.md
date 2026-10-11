@@ -97,16 +97,9 @@ These are example records. Users can enter their own student information.
 
 ## 12. GitHub Repository
 
-**Repository Name:** CS216L_Project1
+**Repository Name:** CS216L_Project1_Dilawaiz&Sheeba
 
-## 13. Screenshots
 
-Add screenshots of the program showing:
-
-* Adding and displaying students.
-* Searching and sorting students.
-* Deleting a student and using the undo feature.
-
-## 14. Conclusion
+## 13. Conclusion
 
 In this project, we learned how to use a linked list and a stack in Java. We also practiced linear search, bubble sort, and input validation. This project helped us understand how data structures can be used to manage student records.
